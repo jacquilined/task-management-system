@@ -1,0 +1,16 @@
+com\taskmanagement\enums\Priority.class
+com\taskmanagement\model\Task.class
+com\taskmanagement\repository\TaskRepository.class
+com\taskmanagement\repository\UserRepository.class
+com\taskmanagement\model\Category.class
+com\taskmanagement\model\User.class
+com\taskmanagement\TaskManagementApplication.class
+com\taskmanagement\controller\CategoryController.class
+com\taskmanagement\interfaces\Validatable.class
+com\taskmanagement\service\TaskService.class
+com\taskmanagement\model\AcademicTask.class
+com\taskmanagement\service\CategoryService.class
+com\taskmanagement\enums\TaskStatus.class
+com\taskmanagement\model\PersonalTask.class
+com\taskmanagement\service\UserService.class
+com\taskmanagement\repository\CategoryRepository.class
